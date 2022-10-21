@@ -1,3 +1,3 @@
 # images
-[](delta-logo.png)
+![image](delta-logo.png)
 images bed
